@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-jimp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benhar-dev",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.2",
+    "sharp": "^0.31.1"
+  }
+}
